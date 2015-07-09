@@ -5,4 +5,4 @@
 
 ## Description
 
-This will be the main portfolio page for Fangzhou Cheng. I am currently located in New York City.
+Hello! My name is Fangzhou. I am a data scientist who loves scuba diving. Currently I'm located in New York City.
